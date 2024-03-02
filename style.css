@@ -1,0 +1,48 @@
+.pic1{
+    width:15%;
+rotate: -20deg; 
+border: 5px solid red;
+border-radius: 40px; 
+display: flex;
+flex-wrap: wrap;}
+.s{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    color: white;
+    background-color: green;border-radius: 10px; 
+}
+.front{
+    color: red;
+    background-color:white;
+}
+.cont{
+    color: red;
+}
+.pic{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.matn1 {
+    width: 80%;
+}
+.obshiy1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.quti {
+    width: 60%;
+}
+.obshiy2 {
+    width: 35%;
+}
